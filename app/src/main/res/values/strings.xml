@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">GoPark</string>
+    <string name="mapbox_access_token">pk.eyJ1IjoiYWxpc3RhaXJncmFoYW0iLCJhIjoiY2pyaGJ2NnJmMXZjNjQ0cDRobWF3emx0MCJ9.5y5AQMcJxYqJr3Vcx1v49A</string>
+</resources>
